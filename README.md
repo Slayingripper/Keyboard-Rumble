@@ -15,9 +15,9 @@ The messages are then interpreted by the Pi or Arduino to vibrate the keyboard j
 You can use what ever pins you want as long as you can use PWM.
 
 
-![Rumble Schematics](Schematics/keyboard.png)
+![Rumble Schematics](https://github.com/Slayingripper/Keyboard-Rumble/blob/main/Schematics/keyboard.png)
 
-<video src='Schematics/keyboard.mp4' width=180/>
+<video src='https://github.com/Slayingripper/Keyboard-Rumble/blob/main/Schematics/keyboard.mp4' width=180/>
 
 ## Usage
 Step 1: 
