@@ -17,7 +17,7 @@ You can use what ever pins you want as long as you can use PWM.
 
 ![Rumble Schematics](https://github.com/Slayingripper/Keyboard-Rumble/blob/main/Schematics/keyboard.png)
 
-[![Demo](https://github.com/Slayingripper/Keyboard-Rumble/blob/main/Schematics/keyboard.mp4 "Keyboard")   
+![Demo](https://github.com/Slayingripper/Keyboard-Rumble/blob/main/Schematics/keyboard.mp4 "Keyboard")   
 
 ## Usage
 Step 1: 
