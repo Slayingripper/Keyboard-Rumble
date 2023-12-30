@@ -37,7 +37,3 @@ python rumbler.py
 ## TODO Checklist
 
 - [ ] Add individual mouse click addressing
-
-
-
-
